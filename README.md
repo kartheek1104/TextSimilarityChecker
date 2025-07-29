@@ -54,9 +54,11 @@ java -cp "bin;lib/*" Main
 - You can place test documents in the `input/` folder.
 - The synonym list used for expansion must be named `synonyms.txt` and should follow this format:
 
+```bash
+
 quick,fast,swift
 car,automobile,vehicle
-
+```
 
 ## Output
 
