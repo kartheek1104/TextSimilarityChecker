@@ -26,15 +26,16 @@ Make sure the required libraries are available in your classpath when compiling 
 ## How to Run
 
 1. Clone the repository:
-
+```bash
 git clone https://github.com/kartheek1104/TextSimilarityChecker.git
 cd TextSimilarityChecker
-
+```
 
 
 2. Compile the Java source files:
-
+```bash
 javac -cp "lib/" -d bin src/.java
+```
 
 
 3. Run the application:
