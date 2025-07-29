@@ -1,0 +1,374 @@
+quick,fast,speedy,rapid,hasty,swift
+jumps,leaps,hops,bounds,skips,vaults
+lazy,idle,sluggish,lethargic,slow,indolent
+dog,canine,pooch,pup,hound,mutt
+happy,joyful,content,pleased,cheerful,delighted
+sad,unhappy,sorrowful,depressed,mournful,gloomy
+angry,mad,furious,irate,annoyed,wrathful
+big,large,huge,enormous,gigantic,massive
+small,tiny,miniature,compact,petite,little
+smart,intelligent,clever,bright,brainy,sharp
+strong,powerful,robust,mighty,tough,sturdy
+weak,fragile,feeble,frail,delicate,vulnerable
+beautiful,pretty,attractive,lovely,gorgeous,stunning
+ugly,unsightly,hideous,unattractive,repulsive,homely
+easy,simple,effortless,straightforward,uncomplicated,basic
+hard,difficult,challenging,tough,complex,arduous
+cold,chilly,frosty,frigid,freezing,nippy
+hot,warm,heated,scorching,sultry,sweltering
+fast,quick,speedy,rapid,swift,hasty
+slow,lethargic,sluggish,unhurried,delayed,lazy
+rich,wealthy,affluent,prosperous,well-off,loaded
+poor,impoverished,needy,destitute,bankrupt,penniless
+clean,spotless,immaculate,tidy,neat,pristine
+dirty,filthy,grimy,messy,unclean,soiled
+loud,noisy,boisterous,rowdy,clamorous,vociferous
+quiet,silent,peaceful,calm,muted,soft
+bright,luminous,shiny,glowing,vivid,radiant
+dark,dim,gloomy,shadowy,dusky,murky
+friendly,amiable,kind,affable,warm,cordial
+mean,cruel,nasty,unkind,spiteful,vicious
+young,juvenile,adolescent,immature,new,infantile
+old,aged,ancient,elderly,mature,vintage
+strong,powerful,sturdy,robust,tough,mighty
+weak,fragile,feeble,frail,vulnerable,delicate
+safe,secure,protected,guarded,reliable,harmless
+dangerous,risky,perilous,unsafe,hazardous,treacherous
+bright,intelligent,clever,smart,brilliant,sharp
+dull,boring,tedious,uninteresting,mind-numbing,monotonous
+thin,slim,lean,skinny,narrow,svelte
+fat,obese,chubby,plump,heavy,overweight
+early,prompt,timely,soon,quick,advance
+late,delayed,tardy,belated,overdue,behind
+clean,tidy,neat,orderly,spotless,immaculate
+messy,untidy,disorganized,cluttered,chaotic,dirty
+funny,humorous,amusing,comical,hilarious,witty
+serious,solemn,grave,earnest,somber,stern
+brave,courageous,fearless,valiant,heroic,bold
+cowardly,fearful,timid,trembling,afraid,nervous
+full,filled,packed,loaded,stuffed,crammed
+empty,vacant,void,barren,hollow,devoid
+fast,quick,rapid,speedy,swift,hasty
+slow,lethargic,sluggish,unhurried,delayed,lazy
+bright,vivid,radiant,brilliant,shining,glowing
+dull,dim,drab,faded,flat,uninteresting
+young,new,fresh,juvenile,infantile,fledgling
+old,ancient,vintage,aged,elderly,mature
+rich,wealthy,affluent,loaded,well-off,prosperous
+poor,impoverished,needy,destitute,penniless,bankrupt
+strong,powerful,mighty,robust,tough,sturdy
+weak,fragile,feeble,frail,delicate,vulnerable
+happy,joyful,content,cheerful,delighted,pleased
+sad,unhappy,sorrowful,depressed,gloomy,mournful
+bright,sunny,shiny,glowing,luminous,radiant
+dark,gloomy,dim,shadowy,murky,dusky
+clean,tidy,neat,spotless,immaculate,orderly
+dirty,messy,filthy,grimy,soiled,unclean
+calm,peaceful,quiet,serene,tranquil,still
+noisy,loud,boisterous,rowdy,clamorous,vociferous
+fast,quick,rapid,speedy,swift,hasty
+slow,lethargic,sluggish,unhurried,delayed,lazy
+large,big,huge,enormous,gigantic,massive
+small,tiny,miniature,petite,little,compact
+hot,warm,heated,scorching,sultry,sweltering
+cold,chilly,frosty,frigid,freezing,nippy
+brave,courageous,valiant,heroic,bold,fearless
+scared,fearful,frightened,afraid,nervous,timid
+bright,smart,intelligent,clever,brilliant,sharp
+dull,boring,tedious,uninteresting,flat,monotonous
+happy,joyful,cheerful,content,delighted,pleased
+sad,unhappy,depressed,sorrowful,gloomy,mournful
+clean,tidy,neat,orderly,spotless,immaculate
+dirty,messy,filthy,grimy,soiled,unclean
+fast,quick,speedy,rapid,swift,hasty
+slow,lethargic,sluggish,unhurried,delayed,lazy
+strong,powerful,robust,mighty,tough,sturdy
+weak,fragile,feeble,frail,delicate,vulnerable
+love,adore,cherish,care for,fancy,dote on
+hate,detest,dislike,loathe,despise,abhor
+smart,intelligent,clever,bright,brainy,sharp
+stupid,dumb,foolish,idiotic,silly,ignorant
+easy,simple,effortless,straightforward,uncomplicated,basic
+hard,difficult,challenging,tough,complex,arduous
+clean,pure,spotless,immaculate,sterile,sanitary
+dirty,filthy,unclean,grimy,messy,soiled
+safe,secure,protected,guarded,reliable,harmless
+dangerous,risky,perilous,unsafe,hazardous,treacherous
+bright,luminous,shining,glowing,vivid,radiant
+dark,dim,gloomy,shadowy,dusky,murky
+quiet,silent,peaceful,calm,muted,soft
+loud,noisy,boisterous,rowdy,clamorous,vociferous
+young,juvenile,adolescent,immature,new,infantile
+old,aged,ancient,elderly,mature,vintage
+happy,joyful,content,pleased,cheerful,delighted
+sad,unhappy,sorrowful,depressed,mournful,gloomy
+angry,mad,furious,irate,annoyed,wrathful
+big,large,huge,enormous,gigantic,massive
+small,tiny,miniature,compact,petite,little
+smart,intelligent,clever,bright,brainy,sharp
+strong,powerful,robust,mighty,tough,sturdy
+weak,fragile,feeble,frail,delicate,vulnerable
+beautiful,pretty,attractive,lovely,gorgeous,stunning
+ugly,unsightly,hideous,unattractive,repulsive,homely
+easy,simple,effortless,straightforward,uncomplicated,basic
+hard,difficult,challenging,tough,complex,arduous
+cold,chilly,frosty,frigid,freezing,nippy
+hot,warm,heated,scorching,sultry,sweltering
+fast,quick,speedy,rapid,swift,hasty
+slow,lethargic,sluggish,unhurried,delayed,lazy
+rich,wealthy,affluent,prosperous,well-off,loaded
+poor,impoverished,needy,destitute,bankrupt,penniless
+clean,spotless,immaculate,tidy,neat,pristine
+dirty,filthy,grimy,messy,unclean,soiled
+loud,noisy,boisterous,rowdy,clamorous,vociferous
+quiet,silent,peaceful,calm,muted,soft
+bright,luminous,shiny,glowing,vivid,radiant
+dark,dim,gloomy,shadowy,dusky,murky
+friendly,amiable,kind,affable,warm,cordial
+mean,cruel,nasty,unkind,spiteful,vicious
+young,juvenile,adolescent,immature,new,infantile
+old,aged,ancient,elderly,mature,vintage
+strong,powerful,sturdy,robust,tough,mighty
+weak,fragile,feeble,frail,vulnerable,delicate
+safe,secure,protected,guarded,reliable,harmless
+dangerous,risky,perilous,unsafe,hazardous,treacherous
+bright,intelligent,clever,smart,brilliant,sharp
+dull,boring,tedious,uninteresting,mind-numbing,monotonous
+thin,slim,lean,skinny,narrow,svelte
+fat,obese,chubby,plump,heavy,overweight
+early,prompt,timely,soon,quick,advance
+late,delayed,tardy,belated,overdue,behind
+clean,tidy,neat,orderly,spotless,immaculate
+messy,untidy,disorganized,cluttered,chaotic,dirty
+funny,humorous,amusing,comical,hilarious,witty
+serious,solemn,grave,earnest,somber,stern
+brave,courageous,fearless,valiant,heroic,bold
+cowardly,fearful,timid,trembling,afraid,nervous
+full,filled,packed,loaded,stuffed,crammed
+empty,vacant,void,barren,hollow,devoid
+fast,quick,rapid,speedy,swift,hasty
+slow,lethargic,sluggish,unhurried,delayed,lazy
+bright,vivid,radiant,brilliant,shining,glowing
+dull,dim,drab,faded,flat,uninteresting
+young,new,fresh,juvenile,infantile,fledgling
+old,ancient,vintage,aged,elderly,mature
+rich,wealthy,affluent,loaded,well-off,prosperous
+poor,impoverished,needy,destitute,penniless,bankrupt
+strong,powerful,mighty,robust,tough,sturdy
+weak,fragile,feeble,frail,delicate,vulnerable
+happy,joyful,content,cheerful,delighted,pleased
+sad,unhappy,depressed,sorrowful,gloomy,mournful
+bright,sunny,shiny,glowing,luminous,radiant
+dark,gloomy,dim,shadowy,murky,dusky
+clean,tidy,neat,orderly,spotless,immaculate
+dirty,messy,filthy,grimy,soiled,unclean
+calm,peaceful,quiet,serene,tranquil,still
+noisy,loud,boisterous,rowdy,clamorous,vociferous
+fast,quick,rapid,speedy,swift,hasty
+slow,lethargic,sluggish,unhurried,delayed,lazy
+large,big,huge,enormous,gigantic,massive
+small,tiny,miniature,petite,little,compact
+hot,warm,heated,scorching,sultry,sweltering
+cold,chilly,frosty,frigid,freezing,nippy
+brave,courageous,valiant,heroic,bold,fearless
+scared,fearful,frightened,afraid,nervous,timid
+bright,smart,intelligent,clever,brilliant,sharp
+dull,boring,tedious,uninteresting,flat,monotonous
+happy,joyful,cheerful,content,delighted,pleased
+sad,unhappy,depressed,sorrowful,gloomy,mournful
+clean,tidy,neat,orderly,spotless,immaculate
+dirty,messy,filthy,grimy,soiled,unclean
+fast,quick,speedy,rapid,swift,hasty
+slow,lethargic,sluggish,unhurried,delayed,lazy
+strong,powerful,robust,mighty,tough,sturdy
+weak,fragile,feeble,frail,delicate,vulnerable
+love,adore,cherish,care for,fancy,dote on
+hate,detest,dislike,loathe,despise,abhor
+smart,intelligent,clever,bright,brainy,sharp
+stupid,dumb,foolish,idiotic,silly,ignorant
+easy,simple,effortless,straightforward,uncomplicated,basic
+hard,difficult,challenging,tough,complex,arduous
+clean,pure,spotless,immaculate,sterile,sanitary
+dirty,filthy,unclean,grimy,messy,soiled
+safe,secure,protected,guarded,reliable,harmless
+dangerous,risky,perilous,unsafe,hazardous,treacherous
+bright,luminous,shining,glowing,vivid,radiant
+dark,dim,gloomy,shadowy,dusky,murky
+quiet,silent,peaceful,calm,muted,soft
+loud,noisy,boisterous,rowdy,clamorous,vociferous
+young,juvenile,adolescent,immature,new,infantile
+old,aged,ancient,elderly,mature,vintage
+strong,powerful,sturdy,robust,tough,mighty
+weak,fragile,feeble,frail,vulnerable,delicate
+safe,secure,protected,guarded,reliable,harmless
+dangerous,risky,perilous,unsafe,hazardous,treacherous
+bright,intelligent,clever,smart,brilliant,sharp
+dull,boring,tedious,uninteresting,mind-numbing,monotonous
+thin,slim,lean,skinny,narrow,svelte
+fat,obese,chubby,plump,heavy,overweight
+early,prompt,timely,soon,quick,advance
+late,delayed,tardy,belated,overdue,behind
+clean,tidy,neat,orderly,spotless,immaculate
+messy,untidy,disorganized,cluttered,chaotic,dirty
+funny,humorous,amusing,comical,hilarious,witty
+serious,solemn,grave,earnest,somber,stern
+brave,courageous,fearless,valiant,heroic,bold
+cowardly,fearful,timid,trembling,afraid,nervous
+full,filled,packed,loaded,stuffed,crammed
+empty,vacant,void,barren,hollow,devoid
+fast,quick,rapid,speedy,swift,hasty
+slow,lethargic,sluggish,unhurried,delayed,lazy
+bright,vivid,radiant,brilliant,shining,glowing
+dull,dim,drab,faded,flat,uninteresting
+young,new,fresh,juvenile,infantile,fledgling
+old,ancient,vintage,aged,elderly,mature
+rich,wealthy,affluent,loaded,well-off,prosperous
+poor,impoverished,needy,destitute,penniless,bankrupt
+strong,powerful,mighty,robust,tough,sturdy
+weak,fragile,feeble,frail,delicate,vulnerable
+happy,joyful,content,cheerful,delighted,pleased
+sad,unhappy,depressed,sorrowful,gloomy,mournful
+bright,sunny,shiny,glowing,luminous,radiant
+dark,gloomy,dim,shadowy,murky,dusky
+clean,tidy,neat,orderly,spotless,immaculate
+dirty,messy,filthy,grimy,soiled,unclean
+calm,peaceful,quiet,serene,tranquil,still
+noisy,loud,boisterous,rowdy,clamorous,vociferous
+fast,quick,rapid,speedy,swift,hasty
+slow,lethargic,sluggish,unhurried,delayed,lazy
+large,big,huge,enormous,gigantic,massive
+small,tiny,miniature,petite,little,compact
+hot,warm,heated,scorching,sultry,sweltering
+cold,chilly,frosty,frigid,freezing,nippy
+brave,courageous,valiant,heroic,bold,fearless
+scared,fearful,frightened,afraid,nervous,timid
+bright,smart,intelligent,clever,brilliant,sharp
+dull,boring,tedious,uninteresting,flat,monotonous
+happy,joyful,cheerful,content,delighted,pleased
+sad,unhappy,depressed,sorrowful,gloomy,mournful
+clean,tidy,neat,orderly,spotless,immaculate
+dirty,messy,filthy,grimy,soiled,unclean
+fast,quick,speedy,rapid,swift,hasty
+slow,lethargic,sluggish,unhurried,delayed,lazy
+strong,powerful,robust,mighty,tough,sturdy
+weak,fragile,feeble,frail,delicate,vulnerable
+love,adore,cherish,care for,fancy,dote on
+hate,detest,dislike,loathe,despise,abhor
+smart,intelligent,clever,bright,brainy,sharp
+stupid,dumb,foolish,idiotic,silly,ignorant
+easy,simple,effortless,straightforward,uncomplicated,basic
+hard,difficult,challenging,tough,complex,arduous
+clean,pure,spotless,immaculate,sterile,sanitary
+dirty,filthy,unclean,grimy,messy,soiled
+safe,secure,protected,guarded,reliable,harmless
+dangerous,risky,perilous,unsafe,hazardous,treacherous
+bright,luminous,shining,glowing,vivid,radiant
+dark,dim,gloomy,shadowy,dusky,murky
+quiet,silent,peaceful,calm,muted,soft
+loud,noisy,boisterous,rowdy,clamorous,vociferous
+young,juvenile,adolescent,immature,new,infantile
+old,aged,ancient,elderly,mature,vintage
+strong,powerful,sturdy,robust,tough,mighty
+weak,fragile,feeble,frail,vulnerable,delicate
+safe,secure,protected,guarded,reliable,harmless
+dangerous,risky,perilous,unsafe,hazardous,treacherous
+bright,intelligent,clever,smart,brilliant,sharp
+dull,boring,tedious,uninteresting,mind-numbing,monotonous
+thin,slim,lean,skinny,narrow,svelte
+fat,obese,chubby,plump,heavy,overweight
+early,prompt,timely,soon,quick,advance
+late,delayed,tardy,belated,overdue,behind
+clean,tidy,neat,orderly,spotless,immaculate
+messy,untidy,disorganized,cluttered,chaotic,dirty
+funny,humorous,amusing,comical,hilarious,witty
+serious,solemn,grave,earnest,somber,stern
+brave,courageous,fearless,valiant,heroic,bold
+cowardly,fearful,timid,trembling,afraid,nervous
+full,filled,packed,loaded,stuffed,crammed
+empty,vacant,void,barren,hollow,devoid
+jump leap bound hop vault spring
+eat consume devour ingest dine feast
+drink sip gulp swallow chug quaff
+sleep nap doze snooze slumber rest
+cry weep sob bawl wail whimper
+laugh chuckle giggle snicker guffaw roar
+win triumph succeed conquer prevail overcome
+lose fail fall surrender succumb collapse
+buy purchase acquire obtain get procure
+sell trade vend market exchange barter
+teach instruct educate train tutor enlighten
+learn study master absorb grasp acquire
+drive steer navigate operate pilot control
+ride mount board travel journey commute
+talk speak converse communicate chat babble
+listen hear attend heed eavesdrop monitor
+work labor toil operate perform function
+play frolic amuse entertain engage participate
+read peruse study examine skim browse
+write compose scribble draft pen author
+cut slice chop carve slash trim
+fix repair mend restore patch resolve
+break shatter snap smash crack fracture
+open unlock unseal uncover reveal expose
+close shut seal conceal block cover
+fight battle clash brawl scuffle contend
+hug embrace cuddle snuggle squeeze hold
+kiss peck smooch buss caress lip-lock
+kill slay assassinate execute murder exterminate
+save conserve preserve protect retain rescue
+rain drizzle pour shower storm sprinkle
+snow flurry blizzard frost hail sleet
+fire flame blaze inferno combustion burn
+wind breeze gust draft gale blow
+earth ground soil terrain dirt land
+water liquid fluid stream flow beverage
+air atmosphere oxygen breeze wind breath
+sky heaven firmament expanse azure canopy
+moon satellite orb crescent lunar sphere
+sun star orb solar light blaze
+star sunburst glimmer sparkle twinkle shimmer
+cloud fog mist haze vapor overcast
+tree plant sapling oak pine cedar
+flower bloom blossom bud rose tulip
+grass lawn turf sod field pasture
+road street avenue highway path route
+car vehicle automobile sedan coupe SUV
+bike bicycle cycle two-wheeler ride pedal
+train locomotive railway subway metro monorail
+plane aircraft jet airliner flight glider
+ship boat vessel cruiser yacht barge
+house home dwelling residence abode cottage
+school academy institute college university campus
+hospital clinic infirmary medical center ER
+city town metropolis municipality capital borough
+village hamlet settlement community locale region
+country nation state land republic kingdom
+king monarch ruler sovereign emperor czar
+queen empress lady monarch sovereign royalty
+man male gentleman guy fellow dude
+woman female lady girl gal miss
+boy lad youngster youth kid child
+girl lass maiden damsel chick daughter
+baby infant toddler newborn child tot
+father dad papa patriarch sire parent
+mother mom mama matriarch mum parent
+brother sibling kin relative twin mate
+sister sibling kin relative twin mate
+friend companion buddy chum mate pal
+enemy foe adversary antagonist opponent rival
+soldier warrior fighter trooper combatant defender
+police cop officer lawman sheriff constable
+fireman firefighter rescuer lifesaver emergency responder
+doctor physician medic healer surgeon clinician
+nurse caregiver attendant aide helper practitioner
+teacher instructor educator mentor trainer tutor
+student pupil learner scholar trainee novice
+artist painter illustrator designer creator sketcher
+musician composer performer singer instrumentalist vocalist
+actor performer thespian star cast member
+writer author novelist poet essayist scribe
+chef cook culinary artist baker kitchen hand
+farmer grower cultivator rancher planter agrarian
+worker employee laborer staffer hand crew
+boss manager supervisor chief head leader
+leader director headmaster principal executive captain
