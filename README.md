@@ -13,23 +13,7 @@ This project is a Java-based desktop application for computing the similarity be
 - Export functionality for results (TXT and optional PDF)
 - GUI built using Java Swing with clean, user-friendly layout
 
-## Project Structure
 
-TextSimilarityChecker/
-├── input/
-│ ├── doc1.txt
-│ ├── doc2.txt
-│ └── synonyms.txt
-├── output/ # Output folder for result files (TXT by default)
-├── src/
-│ ├── Main.java # Entry point
-│ ├── MainGUI.java # GUI logic
-│ └── TextProcessor.java # Core text processing and similarity logic
-└── README.md
-
-markdown
-Copy
-Edit
 
 ## Requirements
 
@@ -46,17 +30,12 @@ Make sure the required libraries are available in your classpath when compiling 
 git clone https://github.com/kartheek1104/TextSimilarityChecker.git
 cd TextSimilarityChecker
 
-bash
-Copy
-Edit
+
 
 2. Compile the Java source files:
 
 javac -cp "lib/" -d bin src/.java
 
-markdown
-Copy
-Edit
 
 3. Run the application:
 
