@@ -57,9 +57,6 @@ java -cp "bin;lib/*" Main
 quick,fast,swift
 car,automobile,vehicle
 
-markdown
-Copy
-Edit
 
 ## Output
 
