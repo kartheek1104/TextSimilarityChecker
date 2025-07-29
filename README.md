@@ -39,11 +39,12 @@ javac -cp "lib/" -d bin src/.java
 
 3. Run the application:
 
-java -cp "bin;lib/*" Main
+```bash
 
-markdown
-Copy
-Edit
+java -cp "bin;lib/*" Main
+```
+
+
 
 > Note: Adjust the classpath syntax depending on your operating system.
 
